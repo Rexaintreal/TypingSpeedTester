@@ -44,7 +44,7 @@ This software uses the following open source packages:
 
 - [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter/)
 - [Python](https://python.org/)
-- [Ctypes]https://docs.python.org/3/library/ctypes.html)
+- [Ctypes](https://docs.python.org/3/library/ctypes.html)
 - [Tkinter](https://docs.python.org/3/library/tkinter.html)
 
 
